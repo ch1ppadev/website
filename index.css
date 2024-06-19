@@ -1,0 +1,7 @@
+body {
+    background-color: black;
+    color: white;
+    text-shadow: 0 0 10px white, 0 0 20px white, 0 0 30px rgb(255, 255, 255);
+    cursor: url('cursor.png'), auto;
+    animation: white-noise 5s infinite;
+}
